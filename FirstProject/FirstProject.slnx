@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="FirstProject.vcxproj" />
+  <Project Path="../what-is-rougelike/Rougelike/Rougelike.vcxproj" Id="93ccaf93-611e-4d22-b918-08ae7ae76f2d" />
+  <Project Path="FirstProject.vcxproj" Id="1f086ffd-1294-42f0-b0ee-41341c570c69" />
 </Solution>

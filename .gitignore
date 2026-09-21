@@ -74,3 +74,4 @@ Testing/
 FirstProject/FirstProject.vcxproj.filters
 FirstProject/FirstProject.vcxproj.user
 x64/
+Output-Build.txt
